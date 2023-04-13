@@ -1,5 +1,5 @@
-- 👋 Hi, I’m LM. Chinchilla-Tábora (@LMCT-Repository)
-- 👀 I’m interested in surgical pathology, molecular pathology, immunohistochemistry, cytology, soft tissue cancer, central nervous system cancer, head and neck cancer, ginecological cancer. 
+- 👋 Hi, I’m Luis Miguel Chinchilla-Tábora (@LMCT-Repository)
+- 👀 I’m interested in surgical pathology, molecular pathology, immunohistochemistry, cytology, soft tissue cancer, central nervous system cancer, head and neck cancer, female genital tract cancer. 
 - 🌱 I’m currently learning: I am doing my doctoral thesis in lung cancer by the University of Salamanca. 
 - 💞️ I’m looking to collaborate on translational research in cancer medicine & oncology.
 - 📫 How to reach me https://orcid.org/0000-0002-7435-3509
